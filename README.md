@@ -97,7 +97,7 @@ I am using PostMan API
               }
    }
 
-   4. Modify Rules
+4. Modify Rules
 
    Endpoint: /modify_rule
    Method: POST
